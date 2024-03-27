@@ -1,0 +1,93 @@
+﻿ID;Name;Alias;IATA;ICAO;Parent;Country Code
+1;Air Europa;\N;UX;AEA;\N;ES
+2;Air Italy;\N;I9;AEY;1;IT
+3;Alliance Airlines;\N;QQ;UTY;\N;AU
+4;Ariana Afghan Airlines;\N;FG;AFG;\N;AF
+5;BF-Lento OY;\N;\N;BKF;\N;FI
+6;Bangkok Airways;\N;PG;BKP;\N;TH
+7;Blue1;\N;KF;BLF;\N;FI
+8;Blue Panorama Airlines;\N;BV;BPA;\N;IT
+9;Budapest Aircraft Services/Manx2;\N;\N;BPS;\N;HU
+10;Bering Air;\N;8E;BRG;\N;US
+11;Brazilian Air Force;\N;\N;BRS;\N;BR
+12;Blue Air;\N;0B;JOR;\N;RO
+13;China United Airlines;\N;HR;CUA;\N;CN
+14;Yunnan Airlines;\N;3Q;CYH;\N;CN
+15;Continental Express;\N;CO;;15;US
+16;Continental Micronesia;\N;CS;CMI;\N;US
+17;Crown Airways;\N;\N;CRO;\N;US
+18;Cubana de Aviaci√≥n;\N;CU;CUB;\N;CU
+19;Emirates;Emirates Airlines;EK;UAE;\N;AE
+20;Empresa Ecuatoriana De Aviacion;\N;EU;EEA;\N;EC
+21;Eritrean Airlines;\N;B8;ERT;\N;ER
+22;Frontier Airlines;\N;F9;FFT;\N;US
+23;GoJet Airlines;\N;G7;GJS;\N;US
+24;Gol Transportes A√©reos;\N;G3;GLO;\N;BR
+25;Golden Air;\N;DC;GAO;\N;SE
+26;Great Lakes Airlines;\N;ZK;GLA;\N;US
+27;Hello;\N;HW;FHE;\N;CH
+28;Lufthansa;\N;LH;DLH;\N;DE
+29;Lufthansa Cargo;\N;LH;GEC;28;DE
+30;Lufthansa CityLine;\N;CL;CLH;28;DE
+31;Lufttransport;\N;L5;LTR;28;NO
+32;Luxair;\N;LG;LGL;\N;LU
+33;L;\N;MJ;LPR;\N;AR
+34;Olympic Airlines;\N;OA;OAL;\N;GR
+35;Oman Air;\N;WY;OMA;\N;OM
+36;Omni Air International;\N;OY;OAE;\N;US
+37;One Two Go Airlines;\N;\N;OTG;\N;TH
+38;Onur Air;\N;8Q;OHY;\N;TR
+39;Orenburg Airlines;\N;R2;ORB;\N;RU
+40;Orient Thai Airlines;\N;OX;OEA;\N;TH
+41;Origin Pacific Airways;\N;QO;OGN;\N;NZ
+42;Ostfriesische Lufttransport;\N;OL;OLT;\N;DE
+43;Overland Airways;\N;OJ;OLA;\N;NG
+44;Ozjet Airlines;\N;O7;OZJ;\N;AU
+45;PAN Air;\N;PV;PNR;\N;ES
+46;PB Air;\N;9Q;PBA;\N;TH
+47;Portugalia;\N;NI;PGA;\N;PT
+48;Potomac Air;\N;BK;PDC;\N;US
+49;Precision Air;\N;PW;PRF;\N;TZ
+50;Royal Air Maroc;\N;AT;RAM;\N;MA
+51;Royal Jordanian;\N;RJ;RJA;\N;JO
+52;Royal Nepal Airlines;\N;RA;RNA;\N;NP
+53;Royal Phnom Penh Airways;\N;\N;PPW;\N;KH
+54;Rusline;\N;\N;RLU;\N;RU
+55;Rwandair Express;\N;WB;RWD;\N;RW
+56;Ryan Air Services;\N;\N;RYA;58;US
+57;Ryan International Airlines;\N;RD;RYN;58;US
+58;Ryanair;\N;FR;RYR;\N;IE
+59;R√©gional;\N;YS;RAE;\N;FR
+60;Spicejet;\N;SG;SEJ;\N;IN
+61;TAP Portugal;TAP Air Portugal;TP;TAP;85;PT
+62;Tunisair;\N;TU;TAR;\N;TN
+63;Thai Air Cargo;\N;T2;TCG;\N;TH
+64;Thomas Cook Airlines;\N;FQ;TCW;\N;BE
+65;Thomas Cook Airlines;\N;MT;TCX;\N;GB
+66;Trigana Air Service;\N;\N;TGN;\N;ID
+67;Tiger Airways;\N;TR;TGW;\N;SG
+68;Tiger Airways Australia;\N;TT;TGW;67;AU
+69;Tiara Air;\N;3P;TNM;\N;AW
+70;Thomsonfly;\N;BY;TOM;\N;GB
+71;Tropic Air;\N;PM;TOS;\N;BZ
+72;TAMPA;\N;QT;TPA;\N;CO
+73;TransAsia Airways;\N;GE;TNA;\N;TW
+74;Transavia Holland;\N;HV;TRA;73;NL
+75;TACV;\N;VR;TCV;\N;PT
+76;Transwest Air;\N;9T;ABS;\N;CA
+77;Transaero Airlines;\N;UN;TSO;\N;RU
+78;Turkmenistan Airlines;Turkmenhovayollary;T5;TUA;\N;TM
+79;Tuninter;\N;UG;TUI;\N;TN
+80;EasyJet (DS);\N;DS;\N;85;CH
+81;Royal Falcon;\N;RL;RFJ;\N;JO
+82;OCEAN AIR CARGO;\N;\N;IXO;\N;IN
+83;National Air Cargo;\N;N8;NCR;\N;US
+84;FLYJET;\N;\N;FYJ;85;PL
+85;Air Costa;\N;LB;\N;\N;IN
+86;Royal Flight;\N;\N;DME;\N;RU
+87;Fly Europa;\N;ER;RWW;\N;ES
+88;FlyPortugal;\N;PO;FPT;85;PT
+89;FOX Linhas Aereas;\N;FX;FOX;\N;BR
+90;City Airways;\N;E8;GTA;\N;TH
+91;Air Pegasus;\N;OP;PPL;\N;IN
+92;Aeronautica Militare;\N;\N;IAM;\N;IT
