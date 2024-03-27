@@ -1,4 +1,4 @@
-# Fleet management of Airlines - Data Bases
+# Fleet management of Airlines - Data Base
 - Hugo Cruz
 - Tiago Loureiro
 - Antero Morgado
