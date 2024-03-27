@@ -3,3 +3,5 @@
 - Hugo Cruz
 - Tiago Loureiro
 - Antero Morgado
+
+## Final grade: 15.6/20
